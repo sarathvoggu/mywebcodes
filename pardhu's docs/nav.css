@@ -1,0 +1,32 @@
+nav {
+    background-color:#0B0C10;
+    color:#66FCF1;
+}
+nav a{
+    color:#66FCF1;
+    font-weight: bolder;
+}
+body{
+    background-color: #1F2833;
+}
+h1{
+    color: #66FCF1;
+    font-size: 80px;
+    text-align: center;
+    padding: 10% 0 60px 0;
+}
+.card{
+    border-radius: 10px;
+    border-color: #45A29E;
+    border-width: 4px;
+}
+.card-body{
+    font-size: 30px;
+    font-weight: bold;
+    color:#C5C6C7;
+    background-color: #1F2833;
+}
+.card-body p{
+    text-align:center;
+    margin-bottom: 0;
+}
